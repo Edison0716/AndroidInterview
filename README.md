@@ -1,6 +1,5 @@
 
 # Android 名企面试题及涉及知识点整理
-#### (我会持续更新，欢迎watch)
 
 ## 面经与准备
 
@@ -12,8 +11,30 @@
 
 * [面试前15个你最需要准备的问题，以及面试官背后隐藏的意思](http://toutiao.com/a6295298465253916929/)
 
-## [Android](https://github.com/helen-x/AndroidInterview/tree/master/android)
 
+
+## 以下是掘金简书整理出来的面试经所被问到的面试题以及答案（个人整理有问题请提出问题）
+
+##### Java
+* [Java几种单利模式的写法]()
+* [Object的方法有哪些]()
+* [为什么要有HashCode方法，hash算法的原理，在Java中哪些地方用到，进而问到了HashMap的源码]()
+* [Java有几种锁，synchronized与Lock有什么区别，Lock的实现原理，有没有碰到死锁的情况]()
+
+##### Android
+* [Android源码中用到了哪些设计模式，举例说明]()
+* [一个Android正常启动有多少个线程]()
+* [Binder机制的实现思想]()
+
+##### 网络
+* [简单描述Https的实现思路]()
+
+##### 数据结构与算法
+* [描述下快速排序的思想，时间复杂度？什么场景对应着最坏情况]()
+* [给定无序数组和一个值，找到两个数和为值的元素，不能使用额外空间复杂度（不要使用HashMap）]()
+
+
+## [Android](https://github.com/helen-x/AndroidInterview/tree/master/android)
 ##### 基础
 
 * [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
@@ -277,14 +298,4 @@
 * [贪心算法](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741375.html)
 
 * [分支限界法](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741378.html)
- 
-
-
-## About
-
-   　如有什么问题，欢迎在Issues中提出！
-   　
-## License
-
-> No Fucking License , No CopyRight ,Just Enjoy !
  
